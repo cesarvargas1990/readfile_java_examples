@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springboot2-jpa-crud-example/src/main/java/net/guides/springboot2/springboot2jpacrudexample/model/FacturaElectronica&apos; to &apos;FacturaElectronica.java&apos;" description="Rename resource &apos;FacturaElectronica&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/net/guides/springboot2/springboot2jpacrudexample/model/FacturaElectronica" name="FacturaElectronica.java" stamp="1602954613835" updateReferences="true"/>
+</session>
